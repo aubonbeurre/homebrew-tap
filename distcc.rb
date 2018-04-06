@@ -3,7 +3,7 @@ class Distcc < Formula
   homepage "https://github.com/aubonbeurre/homebrew-distcc"
   url "https://github.com/aubonbeurre/homebrew-distcc/archive/myv3.2rc1.2.zip"
   version "3.2rc1.2"
-  sha256 ""
+  sha256 "d8e9b8aa3f3be8db72e318cbda97f6b46bde7c62e6976caa531e193ed9790acb"
 
   depends_on "autoconf" => :build
   depends_on "automake" => :build
